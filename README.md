@@ -1,4 +1,8 @@
 ## Hi there 👋
+![HI_JUNGHYEN_EOM](https://capsule-render.vercel.app/api?type=waving&height=360&section=header&reversal=false&text=JUNGHYEN+EOM&textBg=false&fontColor=65%2C+105%2C+225&fontSize=70&fontAlign=60&fontAlignY=40&rotate=0&stroke=65%2C+105%2C+225&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65)
+---
+![Python](https://shields.io) ![MySQL](https://shields.io)
+
 
 <!--
 **string2015-dev/string2015-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
